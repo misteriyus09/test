@@ -1,5 +1,5 @@
-<?php
-echo "latihan"
+<?phs
+echo "latihan";
 
 echo "penjumlahan";
 ?>
